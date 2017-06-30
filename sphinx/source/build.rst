@@ -81,8 +81,8 @@ icon.ico
 icon.icns
     The icon that is used on Macintosh.
 
-These icon files much be in specific formats. You'll need to use a
-program or web service (such as http://iconverticons.com/ ) to convert
+These icon files must be in specific formats. You'll need to use a
+program or web service (such as http://iconverticons.com ) to convert
 them.
 
 Classifying and Ignoring Files
